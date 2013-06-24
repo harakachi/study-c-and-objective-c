@@ -1,0 +1,66 @@
+TPBR
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug/PBR normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c000000005177CCD00000000000004523
+t1366805712
+s17699
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/PBR.LinkFileList
+c0000000051C827140000000000000082
+t1372071700
+s130
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug/PBR
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c
+c0000000051C8271300000000000001AA
+t1372071699
+s426
+i<stdio.h>
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies713c03945e78b741^569c06945e78b741^---0#1#0#--18"Check dependencies36"8EEC2B43-171F-44B1-8700-63A039762ADD-
+
+CCompileC Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s393764500.027636
+e393764500.077831
+r1
+xCompileC
+xBuild/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c693a07945e78b741^f2eb13945e78b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c0000000000000000^2812"CompileC Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.o PBR/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/PBR    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/PBR-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/PBR-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/PBR-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/PBR-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/PBR/PBR/main.c -o /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/main.o36"41C0D5A5-F37D-4BB4-832C-FDE91516FF12-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug/PBR normal x86_64
+s393764500.084483
+e393764500.137449
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug/PBR
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug/PBRcec715945e78b741^95f123945e78b741^---0#0#0#--779"Ld Build/Products/Debug/PBR normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/PBR    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Intermediates/PBR.build/Debug/PBR.build/Objects-normal/x86_64/PBR.LinkFileList -mmacosx-version-min=10.8 -o /Users/harada/Desktop/work/study-c-and-objective-c/PBR/Build/Products/Debug/PBR36"D5E3FAC1-034C-4ABD-ADCE-8FF7EE3D36A7-
+
