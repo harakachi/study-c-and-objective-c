@@ -1,0 +1,93 @@
+TTimeAfterTime
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.pth TimeAfterTime/TimeAfterTime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.pth
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/TimeAfterTime.LinkFileList
+c0000000051C91EB300000000000000A0
+t1372135091
+s160
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Products/Debug/TimeAfterTime
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/TimeAfterTime-Prefix.pch
+c0000000051C91E4500000000000000A7
+t1372134981
+s167
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m
+c0000000051C91EB30000000000000163
+t1372135091
+s355
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd1c966335679b741^0d1a6e335679b741^---0#1#0#--18"Check dependencies36"5A2E09F4-930F-4874-91ED-EF3102B88CF4-
+
+CCompileC Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393827892.264079
+e393827892.343102
+r0
+xCompileC
+xBuild/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m:15:23: error: no known class method for selector 'date'
+o        NSData *now = [NSData date];
+o                      ^       ~~~~
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.md4b843345679b741^63d257345679b741^-233"/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m:15:23: error: no known class method for selector 'date'        NSData *now = [NSData date];                      ^       ~~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@41"No known class method for selector 'date'-393827892#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@101"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m0000000000000000^14#22#14#22#268#0#18"ARC Semantic Issue1(3@101"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m0000000000000000^14#30#14#34#276#0#-0#0#0#-19%DVTDocumentLocation4@101"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m0000000000000000^3609"CompileC Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.o TimeAfterTime/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/Objects-normal/x86_64/main.o36"9811F364-8DDC-4F1B-9B8E-5174DFDA79E2-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Products/Debug/TimeAfterTime normal x86_64
+r0
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.pth TimeAfterTime/TimeAfterTime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393827891.436697
+e393827892.257473
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.pth
+xTimeAfterTime/TimeAfterTime-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile TimeAfterTime/TimeAfterTime-Prefix.pch94f56f335679b741^4be941345679b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/TimeAfterTime-Prefix.pch0000000000000000^3554"ProcessPCH Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.pth TimeAfterTime/TimeAfterTime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/TimeAfterTime-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/TimeAfterTime.build/Debug/TimeAfterTime.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Products/Debug --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/TimeAfterTime/TimeAfterTime-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/TimeAfterTime/Build/Intermediates/PrecompiledHeaders/TimeAfterTime-Prefix-ahibxkzskydzofdxdifkjtddqjfu/TimeAfterTime-Prefix.pch.d36"16886BAB-3959-46D0-AF2C-0AEC5E785953-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/TimeAfterTime-biatvaztgdwauyfokffxxphirhgx/Index/PrecompiledHeaders/TimeAfterTime-Prefix-derhllxoucblzecsbmapkmnheszn_ast/TimeAfterTime-Prefix.pch.pth TimeAfterTime/TimeAfterTime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
