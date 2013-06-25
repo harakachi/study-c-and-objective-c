@@ -1,0 +1,66 @@
+TBMICalc
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug/BMICalc normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c000000005177CCD00000000000004523
+t1366805712
+s17699
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c
+c0000000051C82DFD00000000000002B9
+t1372073469
+s697
+i<stdio.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/BMICalc.LinkFileList
+c0000000051C82CB7000000000000008E
+t1372073143
+s142
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.o
+t1372073143
+s3468
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug/BMICalc
+t1372073143
+s8808
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2593677d6578b741^7dae6a7d6578b741^---0#1#0#--18"Check dependencies36"D77C738F-10C0-4DA9-9922-EDEC3CC9E620-
+
+CCompileC Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s393766269.407234
+e393766269.446950
+r1
+xCompileC
+xBuild/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c2c62687d6578b741^fd6a727d6578b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c0000000000000000^2968"CompileC Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.o BMICalc/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/BMICalc-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/BMICalc-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/BMICalc-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/BMICalc-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/BMICalc/main.c -o /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/main.o36"0164E5FF-E83F-4A16-A219-0869AA8606CE-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug/BMICalc normal x86_64
+s393766269.453905
+e393766269.483763
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug/BMICalc
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug/BMICalc9964747d6578b741^6fd77b7d6578b741^---0#0#0#--819"Ld Build/Products/Debug/BMICalc normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Intermediates/BMICalc.build/Debug/BMICalc.build/Objects-normal/x86_64/BMICalc.LinkFileList -mmacosx-version-min=10.8 -o /Users/harada/Desktop/work/study-c-and-objective-c/BMICalc/Build/Products/Debug/BMICalc36"5D68542A-69A0-4A1F-A10A-E84D5325C679-
+
