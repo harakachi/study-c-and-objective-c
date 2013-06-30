@@ -1,0 +1,93 @@
+TDateList
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.pth DateList/DateList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/DateList.LinkFileList
+c0000000051CF679D0000000000000091
+t1372546973
+s145
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.pth
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Products/Debug/DateList
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/DateList-Prefix.pch
+c0000000051CF66D9000000000000009D
+t1372546777
+s157
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m
+c0000000051CF679D0000000000000235
+t1372546973
+s565
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1bf5501d9f7fb741^795c581d9f7fb741^---0#1#0#--18"Check dependencies36"60156C59-9231-4579-B57B-B658BA7B7C93-
+
+CCompileC Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394239773.955105
+e394239774.034708
+r0
+xCompileC
+xBuild/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m:20:59: error: too many arguments to method call, expected 1, have 4
+o        NSArray *dateList = [NSArray arrayWithObject:now, tomorrow, yesterday, nil];
+o                                                          ^~~~~~~~~~~~~~~~~~~~~~~~
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m4086f61d9f7fb741^dbc4091e9f7fb741^-331"/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m:20:59: error: too many arguments to method call, expected 1, have 4        NSArray *dateList = [NSArray arrayWithObject:now, tomorrow, yesterday, nil];                                                          ^~~~~~~~~~~~~~~~~~~~~~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@53"Too many arguments to method call, expected 1, have 4-394239774#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m0000000000000000^19#58#19#58#506#0#14"Semantic Issue2(3@91"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m0000000000000000^85#0#85#35#4175#34#3@91"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m0000000000000000^19#58#19#82#506#21#-0#0#0#-19%DVTDocumentLocation4@91"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m0000000000000000^3399"CompileC Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.o DateList/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/DateList    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/Objects-normal/x86_64/main.o36"6B2A5976-0D0A-4EFC-9701-00E316701267-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Products/Debug/DateList normal x86_64
+r0
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.pth DateList/DateList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394239773.349085
+e394239773.946363
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.pth
+xDateList/DateList-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile DateList/DateList-Prefix.pchb378591d9f7fb741^94a4f31d9f7fb741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/DateList-Prefix.pch0000000000000000^3349"ProcessPCH Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.pth DateList/DateList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/DateList    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DateList-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/DateList.build/Debug/DateList.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Products/Debug --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/DateList/DateList/DateList-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/DateList/Build/Intermediates/PrecompiledHeaders/DateList-Prefix-ataqfqxmcuxoskcoudntbmgromun/DateList-Prefix.pch.d36"501203C7-21FA-4374-9C7B-64BD0FC94721-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/DateList-dlrkfsmfujiedienksegsmhincws/Index/PrecompiledHeaders/DateList-Prefix-adiocetemhvtxzaurwfznwrxqcvf_ast/DateList-Prefix.pch.pth DateList/DateList-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
