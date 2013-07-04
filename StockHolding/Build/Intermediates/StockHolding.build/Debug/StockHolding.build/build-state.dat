@@ -4,6 +4,7 @@ r1
 cCheck dependencies
 cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/PrecompiledHeaders/StockHolding-Prefix-gwtoopwcleyksuhjvarliwimzker/StockHolding-Prefix.pch.pth StockHolding/StockHolding-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHolding normal x86_64
 
@@ -26,22 +27,26 @@ N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermedi
 t1372572200
 s9388004
 
+N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.o
+t1372681767
+s4320
+
 N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.LinkFileList
-c0000000051CFCA280000000000000142
-t1372572200
-s322
+c0000000051D1762700000000000001EE
+t1372681767
+s494
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.o
 t1372572200
 s11104
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o
-t1372572885
+t1372572929
 s8064
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHolding
-t1372572885
-s16460
+t1372681767
+s17028
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding.h
 c0000000051CFCA2800000000000001D3
@@ -53,6 +58,16 @@ c0000000051CFCA2800000000000001CD
 t1372572200
 s461
 
+N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.h
+c0000000051D17776000000000000012C
+t1372682102
+s300
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.m
+c0000000051D1777600000000000001A7
+t1372682102
+s423
+
 N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/StockHolding-Prefix.pch
 c0000000051CFC89300000000000000A5
 t1372571795
@@ -60,11 +75,14 @@ s165
 i<Foundation/Foundation.h>
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m
-c0000000051CFCD010000000000000482
-t1372572929
-s1154
+c0000000051D1777600000000000004BB
+t1372682102
+s1211
 
 CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding.m
+r0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.m
 r0
 
 CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m
@@ -72,7 +90,20 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies539437810480b741^2d4338810480b741^---0#1#0#--18"Check dependencies36"9F66CB85-0AB4-4C02-9CBB-78D85245FCAF-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies111be8f6ae81b741^65aae8f6ae81b741^---0#1#0#--18"Check dependencies36"12EC9AE9-1E4C-4CB6-8D9D-5C84C1275E0D-
+
+CCompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394374902.918811
+e394374902.984933
+r1
+xCompileC
+xBuild/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.me6b0ebf6ae81b741^23a1fdf6ae81b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.m0000000000000000^3657"CompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.o StockHolding/ForeignStockHolding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/PrecompiledHeaders/StockHolding-Prefix-gwtoopwcleyksuhjvarliwimzker/StockHolding-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/ForeignStockHolding.m -o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/ForeignStockHolding.o36"5E8CD0C4-42DD-4A59-9037-23D01FD20FB4-
 
 CCompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s394265000.819475
@@ -88,8 +119,8 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding.m77f6d1a80180b741^8527e0a80180b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding.m0000000000000000^3589"CompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.o StockHolding.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/PrecompiledHeaders/StockHolding-Prefix-gwtoopwcleyksuhjvarliwimzker/StockHolding-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding.m -o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.o36"20EAD015-C5CF-4B51-8B0C-63E04BD30FF3-
 
 CCompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s394265729.241929
-e394265729.293609
+s394374902.918782
+e394374902.983931
 r1
 xCompileC
 xBuild/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o
@@ -98,17 +129,17 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m700b3e810480b741^c3294b810480b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m0000000000000000^3567"CompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o StockHolding/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/PrecompiledHeaders/StockHolding-Prefix-gwtoopwcleyksuhjvarliwimzker/StockHolding-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o36"EEC83F33-3173-4453-9EB4-2F60E2E33144-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m79aeebf6ae81b741^6de3fbf6ae81b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m0000000000000000^3567"CompileC Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o StockHolding/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/StockHolding-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/PrecompiledHeaders/StockHolding-Prefix-gwtoopwcleyksuhjvarliwimzker/StockHolding-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/StockHolding/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/main.o36"8AD6CF7A-F7F9-43DB-8793-473CFA835E4C-
 
 CLd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHolding normal x86_64
-s394265729.300671
-e394265729.331161
+s394374902.999910
+e394374903.036662
 r1
 xLd
 x/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHolding
 xnormal
 xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHolding240e4d810480b741^3cde54810480b741^---0#0#0#--922"Ld Build/Products/Debug/StockHolding normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHolding36"C1F7BC63-617E-4B7C-89F2-EC76592CADC1-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHoldingcb1300f7ae81b741^d06209f7ae81b741^---0#0#0#--922"Ld Build/Products/Debug/StockHolding normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/StockHolding.build/Debug/StockHolding.build/Objects-normal/x86_64/StockHolding.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Products/Debug/StockHolding36"3E30FF86-203A-402D-ABB0-0655977D381B-
 
 CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/StockHolding/Build/Intermediates/PrecompiledHeaders/StockHolding-Prefix-gwtoopwcleyksuhjvarliwimzker/StockHolding-Prefix.pch.pth StockHolding/StockHolding-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s394265000.250097

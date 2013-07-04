@@ -11,6 +11,8 @@
 		73109D7B177FF9D50039B54F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 73109D7A177FF9D50039B54F /* main.m */; };
 		73109D7F177FF9D50039B54F /* BMITime.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 73109D7E177FF9D50039B54F /* BMITime.1 */; };
 		73109D87177FFA2B0039B54F /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 73109D86177FFA2B0039B54F /* Person.m */; };
+		73BB6F911781A9CB00703E72 /* Employee.m in Sources */ = {isa = PBXBuildFile; fileRef = 73BB6F901781A9CB00703E72 /* Employee.m */; };
+		73BB6F971781B0D600703E72 /* Asset.m in Sources */ = {isa = PBXBuildFile; fileRef = 73BB6F961781B0D600703E72 /* Asset.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +36,10 @@
 		73109D7E177FF9D50039B54F /* BMITime.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = BMITime.1; sourceTree = "<group>"; };
 		73109D85177FFA2B0039B54F /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		73109D86177FFA2B0039B54F /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		73BB6F8F1781A9CB00703E72 /* Employee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Employee.h; sourceTree = "<group>"; };
+		73BB6F901781A9CB00703E72 /* Employee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Employee.m; sourceTree = "<group>"; };
+		73BB6F951781B0D600703E72 /* Asset.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Asset.h; sourceTree = "<group>"; };
+		73BB6F961781B0D600703E72 /* Asset.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Asset.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,10 @@
 			children = (
 				73109D85177FFA2B0039B54F /* Person.h */,
 				73109D86177FFA2B0039B54F /* Person.m */,
+				73BB6F8F1781A9CB00703E72 /* Employee.h */,
+				73BB6F901781A9CB00703E72 /* Employee.m */,
+				73BB6F951781B0D600703E72 /* Asset.h */,
+				73BB6F961781B0D600703E72 /* Asset.m */,
 				73109D79177FF9D50039B54F /* BMITime */,
 				73109D76177FF9D50039B54F /* Frameworks */,
 				73109D75177FF9D50039B54F /* Products */,
@@ -146,6 +156,8 @@
 			files = (
 				73109D7B177FF9D50039B54F /* main.m in Sources */,
 				73109D87177FFA2B0039B54F /* Person.m in Sources */,
+				73BB6F911781A9CB00703E72 /* Employee.m in Sources */,
+				73BB6F971781B0D600703E72 /* Asset.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +260,7 @@
 				73109D84177FF9D50039B54F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

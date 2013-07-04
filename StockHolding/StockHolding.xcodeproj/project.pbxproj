@@ -11,6 +11,7 @@
 		73109D98178000130039B54F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 73109D97178000130039B54F /* main.m */; };
 		73109D9C178000130039B54F /* StockHolding.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 73109D9B178000130039B54F /* StockHolding.1 */; };
 		73109DA41780002F0039B54F /* StockHolding.m in Sources */ = {isa = PBXBuildFile; fileRef = 73109DA31780002F0039B54F /* StockHolding.m */; };
+		73BB6F941781AD7600703E72 /* ForeignStockHolding.m in Sources */ = {isa = PBXBuildFile; fileRef = 73BB6F931781AD7600703E72 /* ForeignStockHolding.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,8 +33,10 @@
 		73109D97178000130039B54F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		73109D9A178000130039B54F /* StockHolding-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StockHolding-Prefix.pch"; sourceTree = "<group>"; };
 		73109D9B178000130039B54F /* StockHolding.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = StockHolding.1; sourceTree = "<group>"; };
-		73109DA21780002F0039B54F /* StockHolding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StockHolding.h; sourceTree = "<group>"; };
-		73109DA31780002F0039B54F /* StockHolding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StockHolding.m; sourceTree = "<group>"; };
+		73109DA21780002F0039B54F /* StockHolding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StockHolding.h; sourceTree = SOURCE_ROOT; };
+		73109DA31780002F0039B54F /* StockHolding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StockHolding.m; sourceTree = SOURCE_ROOT; };
+		73BB6F921781AD7600703E72 /* ForeignStockHolding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForeignStockHolding.h; sourceTree = "<group>"; };
+		73BB6F931781AD7600703E72 /* ForeignStockHolding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForeignStockHolding.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +54,6 @@
 		73109D88178000130039B54F = {
 			isa = PBXGroup;
 			children = (
-				73109DA21780002F0039B54F /* StockHolding.h */,
-				73109DA31780002F0039B54F /* StockHolding.m */,
 				73109D96178000130039B54F /* StockHolding */,
 				73109D93178000130039B54F /* Frameworks */,
 				73109D92178000130039B54F /* Products */,
@@ -81,6 +82,11 @@
 				73109D97178000130039B54F /* main.m */,
 				73109D9B178000130039B54F /* StockHolding.1 */,
 				73109D99178000130039B54F /* Supporting Files */,
+				73109DA21780002F0039B54F /* StockHolding.h */,
+				73109DA31780002F0039B54F /* StockHolding.m */,
+				73BB6F921781AD7600703E72 /* ForeignStockHolding.h */,
+				73BB6F931781AD7600703E72 /* ForeignStockHolding.m */,
+				73109D9A178000130039B54F /* StockHolding-Prefix.pch */,
 			);
 			path = StockHolding;
 			sourceTree = "<group>";
@@ -88,7 +94,6 @@
 		73109D99178000130039B54F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				73109D9A178000130039B54F /* StockHolding-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -146,6 +151,7 @@
 			files = (
 				73109D98178000130039B54F /* main.m in Sources */,
 				73109DA41780002F0039B54F /* StockHolding.m in Sources */,
+				73BB6F941781AD7600703E72 /* ForeignStockHolding.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +254,7 @@
 				73109DA1178000130039B54F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

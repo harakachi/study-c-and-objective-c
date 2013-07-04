@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "StockHolding.h"
+#import "ForeignStockHolding.h"
 
 int main(int argc, const char * argv[])
 {
@@ -23,10 +23,11 @@ int main(int argc, const char * argv[])
         [b setCurrentSharePrice:10.56];
         [b setNumberOfShares:90];
         
-        StockHolding *c = [[StockHolding alloc] init];
+        ForeignStockHolding *c = [[ForeignStockHolding alloc] init];
         [c setPurchaseSharePrice:45.10];
         [c setCurrentSharePrice:49.51];
         [c setNumberOfShares:210];
+        [c setConversionRate:0.94];
         
         NSMutableArray *array = [[NSMutableArray alloc] init];
         [array addObject:a];

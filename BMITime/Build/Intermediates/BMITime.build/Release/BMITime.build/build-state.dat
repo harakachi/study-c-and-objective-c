@@ -1,0 +1,189 @@
+TBMITime
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.pth BMITime/BMITime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime normal x86_64
+cGenerateDSYMFile /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime.dSYM /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m
+c0000000051D55A4D000000000000026B
+t1372936781
+s619
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/BMITime-Prefix.pch
+c0000000051CFC255000000000000009B
+t1372570197
+s155
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m
+c0000000051D55CCB0000000000000624
+t1372937419
+s1572
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/BMITime.LinkFileList
+c0000000051D55CCB0000000000000247
+t1372937419
+s583
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.pth
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime.dSYM
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.m
+c0000000051D55C440000000000000357
+t1372937284
+s855
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m
+c0000000051CFC8680000000000000155
+t1372571752
+s341
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m
+r0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m
+r0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.m
+r0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1ea9324b9485b741^c8994e4b9485b741^---0#1#0#--18"Check dependencies36"366B5680-BEBD-4542-B5AC-95D3504CB215-
+
+CCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394630219.900454
+e394630220.097542
+r1
+xCompileC
+xBuild/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m19aae64b9485b741^2ff8184c9485b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m0000000000000000^3381"CompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.o Asset.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release -include /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Asset.m -o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Asset.o36"F5EAB593-2D7D-4461-AEB6-890D29494EF0-
+
+CCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394630219.899978
+e394630220.104773
+r1
+xCompileC
+xBuild/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.mcd90e64b9485b741^78d21a4c9485b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.m0000000000000000^3399"CompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.o Employee.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release -include /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Employee.m -o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Employee.o36"3371DBEB-65A9-4E46-93D8-DC3F9708D54B-
+
+CCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394630219.899937
+e394630220.095518
+r1
+xCompileC
+xBuild/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m8a90e64b9485b741^2882184c9485b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m0000000000000000^3387"CompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.o Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release -include /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Person.m -o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/Person.o36"B56381B6-67ED-4741-A859-A634FB88343D-
+
+CCompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394630219.899886
+e394630220.098906
+r1
+xCompileC
+xBuild/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m6092e64b9485b741^fc50194c9485b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m0000000000000000^3391"CompileC Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.o BMITime/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release -include /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/main.o36"7281CA02-FD05-4982-ADB4-5381BA68C23D-
+
+CGenerateDSYMFile /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime.dSYM /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime
+s394630220.151053
+e394630220.207795
+r1
+xGenerateDSYMFile
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime.dSYM
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Generate /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime.dSYMffca264c9485b741^0e32354c9485b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime.dSYM000000000080d041^438"GenerateDSYMFile Build/Products/Release/BMITime.dSYM Build/Products/Release/BMITime    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime -o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime.dSYM36"BEB27F16-452D-4697-9B9C-5B8BDC3481B0-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime normal x86_64
+s394630220.111652
+e394630220.144054
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime76a61c4c9485b741^ebe0244c9485b741^---0#0#0#--882"Ld Build/Products/Release/BMITime normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release -F/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release -filelist /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/Objects-normal/x86_64/BMITime.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/BMITime36"8C22087D-29BE-49C9-B4AF-B3BDB2B380E1-
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.pth BMITime/BMITime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394630219.311014
+e394630219.892836
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.pth
+xBMITime/BMITime-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile BMITime/BMITime-Prefix.pch7cb54f4b9485b741^a390e44b9485b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/BMITime-Prefix.pch0000000000000000^3334"ProcessPCH Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.pth BMITime/BMITime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/BMITime    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/BMITime-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/BMITime.build/Release/BMITime.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Products/Release --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/BMITime/BMITime-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/BMITime/Build/Intermediates/PrecompiledHeaders/BMITime-Prefix-cxzriybspmcxmbetpnovdknngstr/BMITime-Prefix.pch.d36"1A99B8E0-AC84-45FC-81FD-069EBF06C1FB-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/BMITime-ewbdogyrirooueftzlipkzekerfl/Index/PrecompiledHeaders/BMITime-Prefix-cxhuuowocdwoqngpgjaqydimjcqm_ast/BMITime-Prefix.pch.pth BMITime/BMITime-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
