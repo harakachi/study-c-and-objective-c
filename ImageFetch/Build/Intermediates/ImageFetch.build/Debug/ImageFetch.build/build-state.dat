@@ -1,0 +1,97 @@
+TImageFetch
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.pth ImageFetch/ImageFetch-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/ImageFetch normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/ImageFetch.LinkFileList
+c0000000051D7CDAE0000000000000097
+t1373097390
+s151
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.o
+t1373097391
+s7844
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.pth
+t1373097391
+s9387948
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/ImageFetch
+t1373097391
+s9704
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/ImageFetch-Prefix.pch
+c0000000051D7C9D100000000000000A1
+t1373096401
+s161
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.m
+c0000000051D7CED50000000000000573
+t1373097685
+s1395
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesab410c550688b741^adfa0c550688b741^---0#1#0#--18"Check dependencies36"B11F8D02-1EC7-4350-8ACC-578681E607B5-
+
+CCompileC Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394790485.060358
+e394790485.416246
+r1
+xCompileC
+xBuild/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.mf38e0f550688b741^0d8e6a550688b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.m0000000000000000^3483"CompileC Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.o ImageFetch/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/main.o36"4CF7581C-E12F-4AA3-9977-D27D5ECC46F4-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/ImageFetch normal x86_64
+s394790485.423332
+e394790485.549164
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/ImageFetch
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/ImageFetch4b766c550688b741^af958c550688b741^---0#0#0#--902"Ld Build/Products/Debug/ImageFetch normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/Objects-normal/x86_64/ImageFetch.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/ImageFetch36"13DD88CB-CA89-4A26-867E-5C0AE17FC5A8-
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.pth ImageFetch/ImageFetch-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394790190.706554
+e394790191.276085
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.pth
+xImageFetch/ImageFetch-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ImageFetch/ImageFetch-Prefix.pchc2f9b42e0588b741^e6ad462f0588b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/ImageFetch-Prefix.pch0000000000000000^3431"ProcessPCH Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.pth ImageFetch/ImageFetch-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/ImageFetch-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/ImageFetch.build/Debug/ImageFetch.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Products/Debug --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/ImageFetch/ImageFetch-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/ImageFetch/Build/Intermediates/PrecompiledHeaders/ImageFetch-Prefix-elolgsvadllzxzfpyfhrhlegxnwn/ImageFetch-Prefix.pch.d36"36BB0215-B81C-4125-BD55-2B9EBAA1BF53-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/ImageFetch-bykcvrwualjdfnexkooawqppxqkl/Index/PrecompiledHeaders/ImageFetch-Prefix-gqcqwqfdrxicaeezaohvjjxqroci_ast/ImageFetch-Prefix.pch.pth ImageFetch/ImageFetch-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
