@@ -1,0 +1,97 @@
+TConstants
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.pth Constants/Constants-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/Constants normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/Constants.LinkFileList
+c0000000051D7C1360000000000000094
+t1373094198
+s148
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.o
+t1373094722
+s5700
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.pth
+t1373094199
+s9387904
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/Constants
+t1373094722
+s9512
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/Constants-Prefix.pch
+c0000000051D7C0E1000000000000009F
+t1373094113
+s159
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.m
+c0000000051D7C38C000000000000021A
+t1373094796
+s538
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc022230cfb87b741^8c85290cfb87b741^---0#1#0#--18"Check dependencies36"DF028098-2AEE-4E7C-8FEF-E57D25F3DE50-
+
+CCompileC Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394787596.159443
+e394787596.204988
+r1
+xCompileC
+xBuild/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.medef280cfb87b741^5f79340cfb87b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.m0000000000000000^3441"CompileC Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.o Constants/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Constants    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/main.o36"0CE98A75-4FBE-41DA-9605-CFEFE822DD03-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/Constants normal x86_64
+s394787596.211955
+e394787596.243998
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/Constants
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/Constants776a360cfb87b741^0c773e0cfb87b741^---0#0#0#--892"Ld Build/Products/Debug/Constants normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/Constants    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Objects-normal/x86_64/Constants.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/Constants36"B46A2DB6-A131-49AD-9336-E1CA58B340CC-
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.pth Constants/Constants-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394786998.465447
+e394786999.071484
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.pth
+xConstants/Constants-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Constants/Constants-Prefix.pch174977b6f887b741^4f7712b7f887b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/Constants-Prefix.pch0000000000000000^3390"ProcessPCH Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.pth Constants/Constants-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Constants    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/Constants-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/Constants.build/Debug/Constants.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Products/Debug --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Constants/Constants-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Constants/Build/Intermediates/PrecompiledHeaders/Constants-Prefix-cainmkhptotaeqdwhyvaplfeuygg/Constants-Prefix.pch.d36"48754C0D-A396-42EE-97BB-EBCC3B16D45A-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/Constants-ghmmizpqbwlikxcuxqpqdcjciiza/Index/PrecompiledHeaders/Constants-Prefix-fsxvvhpoieansugxzureqgpljlhs_ast/Constants-Prefix.pch.pth Constants/Constants-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
