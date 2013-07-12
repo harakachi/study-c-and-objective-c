@@ -4,13 +4,13 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/Info.plist iTahDoodle/iTahDoodle-Info.plist
 cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/PrecompiledHeaders/iTahDoodle-Prefix-gggygdbfyugngjfmwbdigwxpbgjt/iTahDoodle-Prefix.pch.pth iTahDoodle/iTahDoodle-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/main.o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle normal i386
 cGenerateDSYMFile /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle
-cCpResource iTahDoodle/Default.png Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default.png
 cCopyStringsFile /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/en.lproj/InfoPlist.strings iTahDoodle/en.lproj/InfoPlist.strings
 cCpResource iTahDoodle/Default@2x.png Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default@2x.png
+cCpResource iTahDoodle/Default.png Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default.png
 cCpResource iTahDoodle/Default-568h@2x.png Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default-568h@2x.png
 cTouch /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app
 
@@ -54,8 +54,8 @@ t1373268076
 s4678536
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o
-t1373519254
-s102632
+t1373602574
+s103048
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/iTahDoodle.LinkFileList
 c0000000051DA686C0000000000000154
@@ -67,11 +67,11 @@ t1373518191
 s3356
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app
-t1373519254
+t1373602575
 s306
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM
-t1373519254
+t1373602575
 s102
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default-568h@2x.png
@@ -99,8 +99,8 @@ t1373268077
 s42
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle
-t1373519254
-s26876
+t1373602575
+s26880
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.h
 c0000000051DE396F00000000000001EE
@@ -108,9 +108,9 @@ t1373518191
 s494
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m
-c0000000051DE3DB1000000000000139A
-t1373519281
-s5018
+c0000000051DF830E00000000000013FA
+t1373602574
+s5114
 
 N/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/Default-568h@2x.png
 c00000000515C9E6200000000000048A2
@@ -158,11 +158,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese50e6f31758eb741^51da6f31758eb741^---0#1#0#--18"Check dependencies36"5CC25AB8-C429-49EC-9F22-228AE12DFFDF-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies54c9e4bcba8fb741^950fe5bcba8fb741^---0#1#0#--18"Check dependencies36"39A50290-463F-4BEF-BF16-4B19AE9D3579-
 
 CCompileC Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s395212081.460603
-e395212081.560919
+s395295374.608393
+e395295374.778576
 r1
 xCompileC
 xBuild/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o
@@ -171,7 +171,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.md90a7631758eb741^ff978f31758eb741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m0000000000000000^3999"CompileC Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o iTahDoodle/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/DerivedSources/i386 -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator -include /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/PrecompiledHeaders/iTahDoodle-Prefix-gggygdbfyugngjfmwbdigwxpbgjt/iTahDoodle-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m -o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o36"03180D6D-6483-49BB-8E4B-128F5F6CA679-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m30f19b8eba8fb741^a050c78eba8fb741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m0000000000000000^3999"CompileC Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o iTahDoodle/BNRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/iTahDoodle-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/DerivedSources/i386 -I/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator -include /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/PrecompiledHeaders/iTahDoodle-Prefix-gggygdbfyugngjfmwbdigwxpbgjt/iTahDoodle-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/BNRAppDelegate.m -o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/BNRAppDelegate.o36"BA766780-7251-4D0C-9B45-6804886DF428-
 
 CCompileC Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/main.o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s395210991.393483
@@ -223,23 +223,23 @@ xBuild/Products/Debug-iphonesimulator/iTahDoodle.app/Default@2x.png
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default@2x.pngfa0b39ed9f8ab741^65e43ced9f8ab741^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default@2x.png000000000080d041^688"CpResource "iTahDoodle/Default@2x.png" "Build/Products/Debug-iphonesimulator/iTahDoodle.app/Default@2x.png"    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/iTahDoodle/Default@2x.png" /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app36"E8EEA99B-E602-4419-9379-250764B42499-
 
 CGenerateDSYMFile /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle
-s395212081.619577
-e395212081.670652
+s395295375.102359
+e395295375.156960
 r1
 xGenerateDSYMFile
 x/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM
 x/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generate /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM5304a031758eb741^2cb8ab31758eb741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM/0000000000000000^748"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle -o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM36"7C8776F5-2885-4ADA-A221-E792FF970F62-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generate /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM174a1a8fba8fb741^122e288fba8fb741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM/0000000000000000^748"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle -o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app.dSYM36"F4EB606F-2428-4093-B6E5-14801B083DBA-
 
 CLd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle normal i386
-s395212081.567592
-e395212081.612762
+s395295374.784920
+e395295375.095561
 r1
 xLd
 x/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle
 xnormal
 xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodlebc089331758eb741^1ee19c31758eb741^---0#0#0#--1333"Ld Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle normal i386    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator -F/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator -filelist /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/iTahDoodle.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle36"5A9A1CDC-7DC2-46FF-9C1C-CAAD65CF1B3E-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle3203c98eba8fb741^3178188fba8fb741^---0#0#0#--1333"Ld Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle normal i386    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator -F/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator -filelist /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Intermediates/iTahDoodle.build/Debug-iphonesimulator/iTahDoodle.build/Objects-normal/i386/iTahDoodle.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/iTahDoodle36"C6726BC7-D5CB-4A90-9FB8-D8C03185B0A9-
 
 CProcessInfoPlistFile /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app/Info.plist iTahDoodle/iTahDoodle-Info.plist
 s394960876.031387
@@ -267,10 +267,10 @@ CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/iTahDoodle-dhmxlbp
 r0
 
 CTouch /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app
-s395212081.692386
-e395212081.717888
+s395295375.174171
+e395295375.196232
 r1
 xTouch
 x/Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Touch /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app2785b131758eb741^60c7b731758eb741^---0#0#0#--458"Touch Build/Products/Debug-iphonesimulator/iTahDoodle.app    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app36"10608BC9-603D-4E9E-8D1B-FAC766AFB4A8-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Touch /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.appc2a42c8fba8fb741^433c328fba8fb741^---0#0#0#--458"Touch Build/Products/Debug-iphonesimulator/iTahDoodle.app    cd /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/harada/Desktop/work/study-c-and-objective-c/iTahDoodle/Build/Products/Debug-iphonesimulator/iTahDoodle.app36"76A63259-EBC8-47E5-90FD-266BDC14A68F-
 
