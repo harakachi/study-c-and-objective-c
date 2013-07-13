@@ -1,0 +1,154 @@
+TAppliance
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.pth Appliance/Appliance-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/Appliance normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.h
+c0000000051E0E4DB0000000000000175
+t1373693147
+s373
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m
+c0000000051E0E6080000000000000241
+t1373693448
+s577
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/Appliance-Prefix.pch
+c0000000051E0E1DC000000000000009F
+t1373692380
+s159
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m
+c0000000051E0E7E30000000000000288
+t1373693923
+s648
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.m
+c0000000051E0E60800000000000001E9
+t1373693448
+s489
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.LinkFileList
+c0000000051E0E7E300000000000001CB
+t1373693923
+s459
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.o
+t1373693448
+s12000
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.o
+t1373693448
+s5400
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.pth
+t1373692781
+s9387904
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/Appliance
+t1373693449
+s15968
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m
+r0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m
+r0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies38bee2631f91b741^97e3f1631f91b741^---0#1#0#--18"Check dependencies36"F686A3A1-405C-470B-831B-ABA8DE4F6A04-
+
+CCompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395386248.909760
+e395386248.963502
+r1
+xCompileC
+xBuild/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m691de9881d91b741^48a7f6881d91b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m0000000000000000^3451"CompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.o Appliance.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Appliance    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance.m -o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.o36"704493AB-F0D8-403E-B9BA-771CD9723410-
+
+CCompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395386723.955528
+e395386724.007234
+r1
+xCompileC
+xBuild/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m93c6f4631f91b741^b2d901641f91b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m0000000000000000^3501"CompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.o Appliance/OwnedAppliance.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Appliance    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/OwnedAppliance.m -o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/OwnedAppliance.o36"8C7E47B2-D9F5-4830-B047-D90D4D0834C6-
+
+CCompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395386248.909723
+e395386248.966023
+r1
+xCompileC
+xBuild/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.mc11ce9881d91b741^d34cf7881d91b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.m0000000000000000^3441"CompileC Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.o Appliance/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Appliance    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/main.o36"0BED3005-C3E4-471D-97B4-A5BD50B71E7E-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/Appliance normal x86_64
+s395386724.014128
+e395386724.043238
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/Appliance
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/Appliance46b203641f91b741^d8110b641f91b741^---0#0#0#--892"Ld Build/Products/Debug/Appliance normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/Appliance    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Objects-normal/x86_64/Appliance.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/Appliance36"B4F9626E-A620-4640-A96D-1226793648AC-
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.pth Appliance/Appliance-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395385580.632877
+e395385581.376057
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.pth
+xAppliance/Appliance-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Appliance/Appliance-Prefix.pch1823a2ec1a91b741^d04460ed1a91b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/Appliance-Prefix.pch0000000000000000^3390"ProcessPCH Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.pth Appliance/Appliance-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Appliance    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/Appliance-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/Appliance.build/Debug/Appliance.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Products/Debug --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Appliance/Appliance-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Appliance/Build/Intermediates/PrecompiledHeaders/Appliance-Prefix-cmhcwwgxttnkuwfizszmcmrkupxa/Appliance-Prefix.pch.d36"6895B3BC-5342-46E9-B169-90627FAC81CD-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/Appliance-bljpjiyrguxsezezrxjayjyfkyiu/Index/PrecompiledHeaders/Appliance-Prefix-cimoesaoforyjnfkvxzmmxvavjic_ast/Appliance-Prefix.pch.pth Appliance/Appliance-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
