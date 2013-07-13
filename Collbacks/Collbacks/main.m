@@ -15,10 +15,19 @@ int main(int argc, const char * argv[])
     @autoreleasepool {
         Logger *logger = [[Logger alloc] init];
         
+        /*
         [[NSNotificationCenter defaultCenter] addObserver:logger
                                                  selector:@selector(zoneChange:)
                                                      name:NSSystemTimeZoneDidChangeNotification
                                                    object:nil];
+        */
+        
+        [[NSNotificationCenter defaultCenter] addObserverForName:NSSystemTimeZoneDidChangeNotification
+                                                          object:nil
+                                                           queue:nil
+                                                      usingBlock:^(NSNotification *note) {
+            NSLog(@"The system time zone has changed");
+        }];
         
         
         NSURL *url = [NSURL URLWithString:@"http://yahoo.co.jp"];

@@ -1,0 +1,97 @@
+TVowelMovement
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.pth VowelMovement/VowelMovement-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/VowelMovement normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.pth
+t1373697279
+s9388036
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/VowelMovement.LinkFileList
+c0000000051E0F4FE00000000000000A0
+t1373697278
+s160
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.o
+t1373701097
+s13192
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/VowelMovement
+t1373701097
+s14880
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/VowelMovement-Prefix.pch
+c0000000051E0F2EF00000000000000A7
+t1373696751
+s167
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m
+c0000000051E103E900000000000005DE
+t1373701097
+s1502
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa7ad75703b91b741^a2f075703b91b741^---0#1#0#--18"Check dependencies36"B26C2B27-9675-4A85-8152-69E5386D6C6E-
+
+CCompileC Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395393897.867598
+e395393897.920775
+r1
+xCompileC
+xBuild/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m7440de693b91b741^84b7eb693b91b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m0000000000000000^3609"CompileC Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.o VowelMovement/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/main.o36"1A206F73-7EC8-45C4-9F8D-62D2706DE694-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/VowelMovement normal x86_64
+s395393897.927733
+e395393897.957912
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/VowelMovement
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/VowelMovement0894ed693b91b741^193bf5693b91b741^---0#0#0#--932"Ld Build/Products/Debug/VowelMovement normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/Objects-normal/x86_64/VowelMovement.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/VowelMovement36"0A55AA41-48FB-400C-B810-DE000672DDD3-
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.pth VowelMovement/VowelMovement-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395390078.603909
+e395390079.149053
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.pth
+xVowelMovement/VowelMovement-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile VowelMovement/VowelMovement-Prefix.pchf5bd9a7e2c91b741^9928267f2c91b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/VowelMovement-Prefix.pch0000000000000000^3554"ProcessPCH Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.pth VowelMovement/VowelMovement-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/VowelMovement-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/VowelMovement.build/Debug/VowelMovement.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Products/Debug --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/VowelMovement/VowelMovement-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/VowelMovement/Build/Intermediates/PrecompiledHeaders/VowelMovement-Prefix-fopdtimuxaumbmcyjrskikxskerw/VowelMovement-Prefix.pch.d36"6A9D2D88-CF24-4AD4-97F4-6DC63C67D33A-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/VowelMovement-chwvlzelsavmajauoimdaixqbkzh/Index/PrecompiledHeaders/VowelMovement-Prefix-ahmsjclhrlamycabkwhpgskjiayh_ast/VowelMovement-Prefix.pch.pth VowelMovement/VowelMovement-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
