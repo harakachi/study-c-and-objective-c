@@ -25,10 +25,25 @@
         todoItems = [NSMutableArray array];
     }
     
-    [todoItems addObject:@"New Item"];
+    [todoItems addObject:[NSString stringWithFormat:@"New item %d", rand()]];
     [itemTableView reloadData];
     [self updateChangeCount:NSChangeDone];
 }
+
+- (IBAction)deleteItem:(id)sender
+{
+    if (!todoItems) {
+        return;
+    }
+    NSInteger index = [itemTableView selectedRow];
+    if (index < 0) {
+        return;
+    }
+    [todoItems removeObjectAtIndex:index];
+    [itemTableView reloadData];
+    [self updateChangeCount:NSChangeDone];
+}
+
 - (NSInteger)numberOfRowsInTableView:(NSTableView *)tableView
 {
     return [todoItems count];
