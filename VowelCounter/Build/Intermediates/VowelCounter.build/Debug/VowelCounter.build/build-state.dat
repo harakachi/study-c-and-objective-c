@@ -1,0 +1,123 @@
+TVowelCounter
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.pth VowelCounter/VowelCounter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/VowelCounter normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005177CCCD00000000000C4BAC
+t1366805709
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005177CCCD00000000000015F7
+t1366805709
+s5623
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.pth
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/VowelCounter.LinkFileList
+c0000000051E0F1C9000000000000014C
+t1373696457
+s332
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/VowelCounter
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m
+c0000000051E0F1C80000000000000255
+t1373696456
+s597
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/VowelCounter-Prefix.pch
+c0000000051E0F03700000000000000A5
+t1373696055
+s165
+i<Foundation/Foundation.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.m
+c0000000051E0F1C800000000000001AF
+t1373696456
+s431
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m
+r0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies745e0f492991b741^60c717492991b741^---0#1#0#--18"Check dependencies36"5246CD00-CF59-4DA7-A2DE-0E1C26BFB10F-
+
+CCompileC Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395389257.753675
+e395389257.816332
+r1
+xCompileC
+xBuild/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m4416c1492991b741^01fbd0492991b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m0000000000000000^3649"CompileC Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.o NSString+VowelCounting.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/NSString+VowelCounting.m -o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/NSString+VowelCounting.o36"65E1214F-0CB5-4807-9FB2-CEC6B824B5B9-
+
+CCompileC Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395389257.752840
+e395389257.808824
+r1
+xCompileC
+xBuild/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.mf8e1c0492991b741^490fcf492991b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.m0000000000000000^3567"CompileC Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.o VowelCounter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug -include /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/main.m -o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/main.o36"AC11B13A-6C9A-43A1-98E9-4069928D75A5-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/VowelCounter normal x86_64
+s395389257.823213
+e395389257.867843
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/VowelCounter
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/VowelCounter96cfd2492991b741^4643de492991b741^---0#0#0#--922"Ld Build/Products/Debug/VowelCounter normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/Objects-normal/x86_64/VowelCounter.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/VowelCounter36"15157B18-0BF1-4D8A-9D7A-A77E1DA52D33-
+
+CProcessPCH /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.pth VowelCounter/VowelCounter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395389257.096397
+e395389257.746055
+r1
+xProcessPCH
+x/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.pth
+xVowelCounter/VowelCounter-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile VowelCounter/VowelCounter-Prefix.pch3bc718492991b741^cc0cbf492991b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/VowelCounter-Prefix.pch0000000000000000^3513"ProcessPCH Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.pth VowelCounter/VowelCounter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/VowelCounter-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/VowelCounter.build/Debug/VowelCounter.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Products/Debug --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/VowelCounter/VowelCounter-Prefix.pch -o /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.pth -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/VowelCounter/Build/Intermediates/PrecompiledHeaders/VowelCounter-Prefix-gyqkyvulqpwemqdihchomgepktbk/VowelCounter-Prefix.pch.d36"6578B304-1C93-4DAD-AAF8-31FF99D9AC12-
+
+CProcessPCH /Users/harada/Library/Developer/Xcode/DerivedData/VowelCounter-gxabnniynnpwcjeydjiapptbomvk/Index/PrecompiledHeaders/VowelCounter-Prefix-fymksgburjllgjgppuqurobhttbx_ast/VowelCounter-Prefix.pch.pth VowelCounter/VowelCounter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
