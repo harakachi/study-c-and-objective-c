@@ -14,8 +14,8 @@
     int voltage;
 }
 
-@property (copy) NSString *productName;
-@property int voltage;
+//@property (copy, nonatomic) NSString *productName;
+@property (nonatomic) int voltage;
 
 //指定イニシャライザ
 - (id)initWithProductName:(NSString *)pn;

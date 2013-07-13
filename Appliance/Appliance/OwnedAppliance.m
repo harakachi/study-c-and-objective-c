@@ -12,7 +12,7 @@
 
 - (id)initWithProductName:(NSString *)pn
 {
-    [self initWithProductName:pn firstOwnerName:nil];
+    return [self initWithProductName:pn firstOwnerName:nil];
 }
 
 - (id)initWithProductName:(NSString *)pn firstOwnerName:(NSString *)n

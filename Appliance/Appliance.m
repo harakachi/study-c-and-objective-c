@@ -10,7 +10,7 @@
 
 @implementation Appliance
 
-@synthesize productName, voltage;
+@synthesize /*productName,*/ voltage;
 
 - (id)init
 {
@@ -21,7 +21,7 @@
 {
     self = [super init];
     if (self) {
-        productName = pn;
+        productName = [pn copy];
         [self setVoltage:120];
     }
     return self;
