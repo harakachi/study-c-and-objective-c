@@ -1,0 +1,66 @@
+TYostring
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug/Yostring normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c000000005177CCD00000000000004523
+t1366805712
+s17699
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/Yostring.LinkFileList
+c0000000051E31FEC0000000000000091
+t1373839340
+s145
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug/Yostring
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c
+c0000000051E31FEC0000000000000142
+t1373839340
+s322
+i<stdio.h>
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdc48e16c5793b741^7078e56c5793b741^---0#1#0#--18"Check dependencies36"A30133EC-FD37-4AEB-8CA9-8166AFAC5389-
+
+CCompileC Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s395532140.897211
+e395532140.933090
+r1
+xCompileC
+xBuild/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c52d4e56c5793b741^ecdeee6c5793b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c0000000000000000^3007"CompileC Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.o Yostring/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Yostring    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Yostring-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Yostring-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Yostring-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Yostring-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Yostring/main.c -o /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/main.o36"C0CB30CD-24EC-4F5A-90DE-8ACDEEC95EDD-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug/Yostring normal x86_64
+s395532140.940281
+e395532140.976389
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug/Yostring
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug/Yostringe8d9f06c5793b741^49f5f96c5793b741^---0#0#0#--829"Ld Build/Products/Debug/Yostring normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/Yostring    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Intermediates/Yostring.build/Debug/Yostring.build/Objects-normal/x86_64/Yostring.LinkFileList -mmacosx-version-min=10.8 -o /Users/harada/Desktop/work/study-c-and-objective-c/Yostring/Build/Products/Debug/Yostring36"D9EB0E3D-3D0F-4F22-8F3E-980D0C4DEAB2-
+

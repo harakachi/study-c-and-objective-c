@@ -1,0 +1,66 @@
+TBitwize
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug/Bitwize normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BE9C7900000000000000AA
+t1371446393
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c000000005177CCD00000000000004523
+t1366805712
+s17699
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c
+c0000000051E319C10000000000000199
+t1373837761
+s409
+i<stdio.h>
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/Bitwize.LinkFileList
+c0000000051E319C1000000000000008E
+t1373837761
+s142
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug/Bitwize
+t2
+s0
+
+CBuild AST from /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa871a7415193b741^efadac415193b741^---0#1#0#--18"Check dependencies36"F519A04C-1166-4021-89C3-8E4B72D675F6-
+
+CCompileC Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.o /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s395530561.680008
+e395530561.726217
+r1
+xCompileC
+xBuild/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.o
+x/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c5c3aae415193b741^1de8b9415193b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c0000000000000000^2968"CompileC Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.o Bitwize/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Bitwize-generated-files.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Bitwize-own-target-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Bitwize-all-target-headers.hmap -iquote /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Bitwize-project-headers.hmap -I/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/DerivedSources/x86_64 -I/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/DerivedSources -F/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug -MMD -MT dependencies -MF /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.dia -c /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Bitwize/main.c -o /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/main.o36"178B7954-0735-4454-8AD5-A2A577C79CC3-
+
+CLd /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug/Bitwize normal x86_64
+s395530561.732704
+e395530561.806736
+r1
+xLd
+x/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug/Bitwize
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug/Bitwize60acbb415193b741^a087ce415193b741^---0#0#0#--819"Ld Build/Products/Debug/Bitwize normal x86_64    cd /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug -F/Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug -filelist /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Intermediates/Bitwize.build/Debug/Bitwize.build/Objects-normal/x86_64/Bitwize.LinkFileList -mmacosx-version-min=10.8 -o /Users/harada/Desktop/work/study-c-and-objective-c/Bitwize/Build/Products/Debug/Bitwize36"9F4F8F20-ECAE-4A9D-9BF0-90EF45082505-
+
